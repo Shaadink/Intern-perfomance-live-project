@@ -2,8 +2,6 @@
 **End-to-End Data Analytics Project | Python · SQL · Power BI**
  <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/backgroundphoto...png"/>
 </p>
----
-
 ##  Project Overview
 
 This project delivers an **end-to-end analytics solution** for evaluating internship performance using:
