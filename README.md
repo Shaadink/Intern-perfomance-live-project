@@ -1,4 +1,4 @@
-#  Internship Performance Evaluation Dashboard  
+#  Intern Performance Monitoring & Evaluation System
 **End-to-End Data Analytics Project | Python · SQL · Power BI**
  <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/backgroundphoto...png"/>
 </p>
