@@ -123,7 +123,7 @@ This page provides a high-level snapshot of overall internship performance.
 ---
 
 ### 🔹 Page 2 — Attendance Impact Analysis
- <img src=""/>
+ <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/Dashboard%20page%202.png"/>
 </p>
 
 This is the **key analytical page** focusing on attendance as a performance driver.
