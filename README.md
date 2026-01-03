@@ -123,6 +123,8 @@ This page provides a high-level snapshot of overall internship performance.
 ---
 
 ### 🔹 Page 2 — Attendance Impact Analysis
+ <img src=""/>
+</p>
 
 This is the **key analytical page** focusing on attendance as a performance driver.
 
