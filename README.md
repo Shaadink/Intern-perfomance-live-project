@@ -1,6 +1,7 @@
 #  Internship Performance Evaluation Dashboard  
 **End-to-End Data Analytics Project | Python · SQL · Power BI**
-
+ <img src="https://github.com/Shaadink/SQL-PROJECT/blob/main/ecommerce%20background.jpg"/>
+</p>
 ---
 
 ##  Project Overview
