@@ -98,7 +98,7 @@ The dataset contains weekly internship evaluation records including:
 - All non-key attributes depend only on primary keys  
 
 
-## 📊 Power BI Dashboard
+## 3. Power BI Dashboard
 
 ### 🔹 Page 1 — Summary Overview
 
