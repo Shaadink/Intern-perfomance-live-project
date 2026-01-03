@@ -101,7 +101,8 @@ The dataset contains weekly internship evaluation records including:
 ## 3. Power BI Dashboard
 
 ### 🔹 Page 1 — Summary Overview
-
+ <img src=""/>
+</p>
 This page provides a high-level snapshot of overall internship performance.
 
 **Key KPIs**
