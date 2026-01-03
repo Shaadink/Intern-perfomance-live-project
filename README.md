@@ -37,7 +37,7 @@ Each record represents **one intern’s one-week evaluation**.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Layer | Tools |
 |-----|------|
@@ -97,9 +97,63 @@ The dataset contains weekly internship evaluation records including:
 - No transitive dependencies  
 - All non-key attributes depend only on primary keys  
 
+
+## 📊 Power BI Dashboard
+
+### 🔹 Page 1 — Summary Overview
+
+This page provides a high-level snapshot of overall internship performance.
+
+**Key KPIs**
+- Total Students  
+- Total Reviews  
+- Average Review Score  
+- Overall Performance Score  
+- WeekBack Count  
+- Average Attendance  
+- Average Discipline  
+
+**Visuals**
+- Weekly Performance Trend (Line Chart)
+- Top 5 Performers Table (Ranked by Overall Performance)
+- WeekBack vs Non-WeekBack Distribution (Pie Chart)
+- Student Status Indicator (Active / Placed / Dropped)
+
 ---
 
-##  ER Diagram
+### 🔹 Page 2 — Attendance Impact Analysis
 
-```markdown
-![ER Diagram](ER_Diagram.png)
+This is the **key analytical page** focusing on attendance as a performance driver.
+
+**Visuals**
+- Scatter Plot:
+  - Attendance vs Overall Performance Score
+  - Colored by WeekBack status (True / False)
+  - Trendline to show correlation
+- WeekBack Percentage by Attendance Band (Column Chart)
+
+**Purpose**
+- Identify how attendance influences performance
+- Understand WeekBack risk patterns across attendance levels
+
+---
+
+## 📈 Key Insights & Storytelling
+
+### 📌 Descriptive Insights (What is happening?)
+- Interns with higher attendance generally achieve higher overall performance scores.
+- A significant proportion of WeekBack cases fall within the lowest attendance band (0–2).
+
+### 📌 Diagnostic Insights (Why is it happening?)
+- Attendance has a stronger impact on WeekBack decisions than individual review or task scores.
+- Performance stability increases as attendance improves.
+
+### 📌 Predictive Observations (What might happen next?)
+- Interns with consistently low attendance are more likely to face future WeekBack decisions.
+- Sustained attendance trends indicate improved long-term performance.
+
+### 📌 Prescriptive Recommendations (What actions should be taken?)
+- Implement early attendance monitoring mechanisms.
+- Proactively flag interns in low attendance bands.
+- Introduce intervention or mentoring before WeekBack decisions are required.
+
