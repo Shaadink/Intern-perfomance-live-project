@@ -1,7 +1,7 @@
 # Internship Performance Evaluation Dashboard  
-**Using Python, SQL & Power BI**
 
-## 📌 Project Overview
+
+##  Project Overview
 This project focuses on analyzing and evaluating internship performance data to support data-driven academic and operational decisions.  
 The solution uses **Python for data transformation**, **SQL for normalization and modelling**, and **Power BI for analytics, visualization, and insights**.
 
@@ -15,7 +15,7 @@ The dataset contains weekly intern reviews covering:
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 - Monitor intern performance on a weekly basis
 - Identify top-performing interns
 - Analyze factors influencing WeekBack decisions
