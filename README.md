@@ -139,6 +139,10 @@ This is the **key analytical page** focusing on attendance as a performance driv
 - Identify how attendance influences performance
 - Understand WeekBack risk patterns across attendance levels
 
+- ###  Page 3 — Discipline Impact Analysis
+ <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/Dashboard%20page%202.png"/>
+</p>
+
 ---
 
 ##  Key Insights 
