@@ -143,7 +143,25 @@ This is the **key analytical page** focusing on attendance as a performance driv
  <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/Dashboard%20page%203.png"/>
 </p>
 
+This is the key analytical page focusing on **discipline as a performance driver**.
+
+### Visuals
+
+**Scatter Plot:**
+- Discipline vs Overall Performance Score  
+- Colored by WeekBack status (True / False)  
+- Trendline to show correlation  
+
+**Column Chart:**
+- WeekBack Percentage by Discipline Band  
+
 ---
+
+### Purpose
+
+- Identify how discipline influences overall performance  
+- Understand WeekBack risk patterns across different discipline levels  
+
 
 ##  Key Insights 
 
