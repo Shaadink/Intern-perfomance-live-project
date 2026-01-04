@@ -75,7 +75,7 @@ The dataset contains weekly internship evaluation records including:
   - Standardized Student, Advisor & Reviewer IDs  
 - Exported analytics-ready dataset  
 
-📁 **Output:** `live_project.csv`
+ **Output:** `live_project.csv`
 
 ---
 
@@ -100,7 +100,7 @@ The dataset contains weekly internship evaluation records including:
 
 ## 3. Power BI Dashboard
 
-### 🔹 Page 1 — Summary Overview
+###  Page 1 — Summary Overview
  <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/Dashboard%20page%201.png"/>
 </p>
 This page provides a high-level snapshot of overall internship performance.
@@ -122,7 +122,7 @@ This page provides a high-level snapshot of overall internship performance.
 
 ---
 
-### 🔹 Page 2 — Attendance Impact Analysis
+###  Page 2 — Attendance Impact Analysis
  <img src="https://github.com/Shaadink/Intern-perfomance-live-project/blob/main/Dashboard%20page%202.png"/>
 </p>
 
@@ -141,22 +141,56 @@ This is the **key analytical page** focusing on attendance as a performance driv
 
 ---
 
-## 📈 Key Insights & Storytelling
+##  Key Insights 
 
-### 📌 Descriptive Insights (What is happening?)
-- Interns with higher attendance generally achieve higher overall performance scores.
-- A significant proportion of WeekBack cases fall within the lowest attendance band (0–2).
+###  Descriptive Insights (What is happening?)
 
-### 📌 Diagnostic Insights (Why is it happening?)
-- Attendance has a stronger impact on WeekBack decisions than individual review or task scores.
-- Performance stability increases as attendance improves.
+- The dataset contains **1,164 interns** with **15,000+ weekly reviews**.
+- The **average overall performance score** is **6.71**, indicating moderate performance across interns.
+- **Attendance (7.40)** and **discipline (7.28)** scores are relatively high on average.
+- A significant number of interns (**3,294 cases**) have faced **WeekBack**, showing performance risk exists.
+- Weekly performance trends show **fluctuations**, with sudden drops and recoveries over time.
+- Top-performing interns consistently score **above 8.5**, showing stable and strong performance.
 
-### 📌 Predictive Observations (What might happen next?)
-- Interns with consistently low attendance are more likely to face future WeekBack decisions.
-- Sustained attendance trends indicate improved long-term performance.
+---
 
-### 📌 Prescriptive Recommendations (What actions should be taken?)
-- Implement early attendance monitoring mechanisms.
-- Proactively flag interns in low attendance bands.
-- Introduce intervention or mentoring before WeekBack decisions are required.
+###  Diagnostic Insights (Why is it happening?)
+
+- **Attendance has a strong positive relationship with performance**:
+  - Interns with higher attendance consistently achieve higher performance scores.
+  - Most WeekBack cases occur in the **lowest attendance band (0–2)**.
+- **Discipline has an even stronger impact than attendance**:
+  - Interns with poor discipline show significantly lower performance scores.
+  - The **highest WeekBack risk (~90%)** is observed in the **lowest discipline band (0–2)**.
+- Interns with good attendance but poor discipline still face performance risks, showing that **discipline is a critical factor**.
+- Performance drops seen in weekly trends are likely caused by **temporary discipline or attendance issues**, not long-term capability.
+
+---
+
+###  Predictive Observations (What might happen next?)
+
+- Interns with **low attendance and low discipline** are highly likely to face future WeekBack decisions.
+- Sustained improvement in attendance and discipline leads to **consistent performance growth over time**.
+- If discipline issues are not addressed early, WeekBack risk remains high even if attendance improves.
+- Interns maintaining attendance and discipline above **6** are unlikely to face WeekBack.
+
+---
+
+###  Prescriptive Recommendations (What actions should be taken?)
+
+- Implement **early warning systems** to flag interns with:
+  - Attendance below **4**
+  - Discipline below **4**
+- Focus mentoring efforts more on **discipline improvement**, not only academic scores.
+- Introduce **weekly monitoring dashboards** for attendance and discipline.
+- Provide proactive interventions (mentoring, counseling, reminders) before WeekBack decisions.
+- Shift from reactive WeekBack actions to **preventive performance management**.
+
+---
+
+###  Key Business Insight
+
+> Intern performance and retention are driven more by **consistent discipline and attendance** than by individual review scores alone.  
+> Improving these two factors can significantly reduce WeekBack risk and improve overall outcomes.
+
 
